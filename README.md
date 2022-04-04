@@ -13,13 +13,7 @@
 
 Apaixonado por tecnologia e jogos.
 
-## Meus jogos preferidos
-
-[![Minecraft]
-
-### Servidores:
-- [Criando Infinite Scroll - React Native](https://youtu.be/TjkFGrjkXfc)<br/>
-- [O que estudar para se tornar um desenvolvedor front-end? 2021](https://youtu.be/Ab-kGzlCCWI)<br/>
-- [Criando interface login do Instagram - React Native](https://youtu.be/pSV9Wh_p2Cg)<br/>
-- [Aprendendo e conhecendo FIGMA - UI Design](https://youtu.be/KRCfX25yFf4)<br/>
+### Atualmente eu sou:
+- [Gerente - RedeSeven](https://discord.gg/duZ5fZhS6q)<br/>
+- [Developer - Lisboa](https://discord.gg/we2UwVZfMt)<br/>
 
