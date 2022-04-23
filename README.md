@@ -14,6 +14,6 @@
 Apaixonado por tecnologia e jogos.
 
 ### Atualmente eu sou:
-- [Gerente - RedeSeven](https://discord.gg/duZ5fZhS6q)<br/>
+
 - [Developer - Lisboa](https://discord.gg/we2UwVZfMt)<br/>
 
