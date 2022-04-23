@@ -1,4 +1,4 @@
-## Olá! Eu sou o TJSeven 🖐️
+## Olá! Eu sou o OzJ 🖐️
 
 ![TJSeven GitHub stats](https://github-readme-stats.vercel.app/api?username=TJSeven&show_icons=true&theme=dracula&count_private=true)
 
