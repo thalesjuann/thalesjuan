@@ -1,6 +1,6 @@
 ## Olá! Eu sou o OzJ 🖐️
 
-![TJSeven GitHub stats](https://github-readme-stats.vercel.app/api?username=TJSeven&show_icons=true&theme=dracula&count_private=true)
+![OzJ GitHub stats](https://github-readme-stats.vercel.app/api?username=OzJ&show_icons=true&theme=dracula&count_private=true)
 
 ## Linguagens que eu programo
 
