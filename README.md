@@ -1,6 +1,7 @@
-## Olá! Eu sou o zDev 🖐️
+## Olá! Eu sou o zDev 🖐️ - ![](https://komarev.com/ghpvc/?username=YTJoseGames&color=006bed)
 
-![zDev GitHub stats](https://github-readme-stats.vercel.app/api?username=zDevDevz&show_icons=true&theme=dracula&count_private=true)
+<h3> :man: &nbsp;About me </h3>
+- :book: &nbsp; Estudante de  **Python e Java**
 
 ## Linguagens que eu programo:
 
@@ -20,4 +21,6 @@ Apaixonado por tecnologia e jogos.
 ### Atualmente eu sou:
 
 - [Fundador - BlastMC](https://dsc.gg/blastmc)<br/>
+
+![zDev GitHub stats](https://github-readme-stats.vercel.app/api?username=zDevDevz&show_icons=true&theme=dracula&count_private=true)
 
