@@ -1,7 +1,7 @@
 **Olá! Eu sou o zDev 🖐️** - ![](https://komarev.com/ghpvc/?username=zDevDevz&color=006bed)
 
 <h3> :man: &nbsp;About me </h3>
-- :book: &nbsp; Estudante de Python e Java
+- :book: &nbsp; Estudante de:
 <div style="display: inline_block">
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
