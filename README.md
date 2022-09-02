@@ -1,9 +1,9 @@
-**Olá! Eu sou o zDev 🖐️**- ![](https://komarev.com/ghpvc/?username=zDevDevz&color=006bed)
+**Olá! Eu sou o zDev 🖐️** - ![](https://komarev.com/ghpvc/?username=zDevDevz&color=006bed)
 
 <h3> :man: &nbsp;About me </h3>
 - :book: &nbsp; Estudante de  **Python e Java**
 
-**💻 Linguagens que eu programo:**
+</h3> 💻 Linguagens que eu programo: </h3>
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -12,13 +12,13 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-**Ferramentas utilizadas:**
+</h3> Ferramentas utilizadas: </h3>
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 Apaixonado por tecnologia e jogos.
 
-**Atualmente eu sou:**
+</h3> Atualmente eu sou: </h3>
 
 - [Fundador - BlastMC](https://dsc.gg/blastmc)<br/>
 
