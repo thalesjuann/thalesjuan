@@ -1,9 +1,9 @@
-** Olá! Eu sou o zDev 🖐️ **- ![](https://komarev.com/ghpvc/?username=zDevDevz&color=006bed)
+**Olá! Eu sou o zDev 🖐️**- ![](https://komarev.com/ghpvc/?username=zDevDevz&color=006bed)
 
 <h3> :man: &nbsp;About me </h3>
 - :book: &nbsp; Estudante de  **Python e Java**
 
-** 💻 Linguagens que eu programo:**
+**💻 Linguagens que eu programo:**
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -18,7 +18,7 @@
 
 Apaixonado por tecnologia e jogos.
 
-** Atualmente eu sou:**
+**Atualmente eu sou:**
 
 - [Fundador - BlastMC](https://dsc.gg/blastmc)<br/>
 
