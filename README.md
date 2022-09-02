@@ -15,5 +15,5 @@ Apaixonado por tecnologia e jogos.
 
 ### Atualmente eu sou:
 
-- [Developer - Lisboa](https://discord.gg/we2UwVZfMt)<br/>
+- [Fundador - BlastMC](https://dsc.gg/blastmc)<br/>
 
