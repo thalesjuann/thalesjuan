@@ -1,4 +1,4 @@
-**Olá! Eu sou o zDev 🖐️** - ![](https://komarev.com/ghpvc/?username=zDevDevz&color=006bed)
+**Olá! Meu nome é Thales 🖐️** - ![](https://komarev.com/ghpvc/?username=zDevDevz&color=006bed)
 
 <h3> :man: &nbsp;About me </h3>
 - :book: &nbsp; Estudante de:
