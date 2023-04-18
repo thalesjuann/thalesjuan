@@ -18,5 +18,5 @@
 
 Apaixonado por tecnologia e jogos.
 
-![zDev GitHub stats](https://github-readme-stats.vercel.app/api?username=zDevDevz&show_icons=true&theme=dracula&count_private=true)
+![Thales GitHub stats](https://github-readme-stats.vercel.app/api?username=thalesjuann&show_icons=true&theme=dracula&count_private=true)
 
