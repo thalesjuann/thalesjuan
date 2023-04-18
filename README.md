@@ -18,16 +18,5 @@
 
 Apaixonado por tecnologia e jogos.
 
-<h3> 🚀 &nbsp;Atualmente eu sou:<h3>
-
-**Fundador - BlastMC**
-↴
-
-<p align="left">
-  <a href="https://dsc.gg/blastmc" alt="Discord">
-    <img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=Discord&logoColor=FFFFFF&link=https://dsc.gg/blastmc"/>
-  </a>
-</p>
-
 ![zDev GitHub stats](https://github-readme-stats.vercel.app/api?username=zDevDevz&show_icons=true&theme=dracula&count_private=true)
 
