@@ -1,20 +1,31 @@
-**Olá! Meu nome é Thales 🖐️** - ![](https://komarev.com/ghpvc/?username=zDevDevz&color=006bed)
+# Olá, eu sou Thales Juan! 👋 ![](https://komarev.com/ghpvc/?username=thalesjuann&color=006bed)
 
-<h3> :man: &nbsp;About me </h3>
-- :book: &nbsp; Estudante de:
-<div style="display: inline_block">
-<img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-</div><br/>
+## Sobre mim
+Tenho 16 anos e sou um desenvolvedor fullstack apaixonado por criar soluções incríveis. Atualmente, estou focado no desenvolvimento web, utilizando tecnologias como HTML, CSS, JavaScript, ReactJS e Node.js. Além disso, estou sempre em busca de aprendizado e atualmente estou estudando Java para expandir ainda mais minhas habilidades.
 
-<h3> 💻 &nbsp;Linguagens que eu programo: <h3>
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</div><br/>
+## Habilidades
+- **Frontend:** HTML, CSS, JavaScript, ReactJS
+- **Backend:** Node.js e Java
+- **Atualmente Estudando:** Java
 
-<h3> ⚙️ &nbsp;Ferramentas utilizadas:<h3>
+## Badges
+[![Idade](https://img.shields.io/badge/Idade-16-blue)](https://github.com/seu-usuario)
+[![Desenvolvedor Fullstack](https://img.shields.io/badge/Desenvolvedor-Fullstack-success)](https://github.com/seu-usuario)
+[![HTML](https://img.shields.io/badge/HTML-Expert-orange)](https://github.com/seu-usuario)
+[![CSS](https://img.shields.io/badge/CSS-Expert-blueviolet)](https://github.com/seu-usuario)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)](https://github.com/seu-usuario)
+[![ReactJS](https://img.shields.io/badge/ReactJS-Expert-blue)](https://github.com/seu-usuario)
+[![Node.js](https://img.shields.io/badge/Node.js-Expert-success)](https://github.com/seu-usuario)
+[![Java](https://img.shields.io/badge/Java-Studying-red)](https://github.com/seu-usuario)
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+## Contato
+- [Discord](https://discord.com/users/829877072079487066)
+- [Instagram](https://instagram.com/thalesjuan._)
+- [Email](mailto:thalesjuand@gmail.com)
 
-Apaixonado por tecnologia e jogos.
+## Projetos Destacados
+- [Pixel Nostálgico](https://github.com/thalesjuann/PixelNostalgico)
+
+Fique à vontade para explorar meus repositórios e entre em contato! 😊
 
 ![Thales GitHub stats](https://github-readme-stats.vercel.app/api?username=thalesjuann&show_icons=true&theme=dracula&count_private=true)
-
