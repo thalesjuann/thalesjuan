@@ -9,14 +9,14 @@ Tenho 16 anos e sou um desenvolvedor fullstack apaixonado por criar soluções i
 - **Atualmente Estudando:** Java
 
 ## Badges
-[![Idade](https://img.shields.io/badge/Idade-16-blue)](https://github.com/seu-usuario)
-[![Desenvolvedor Fullstack](https://img.shields.io/badge/Desenvolvedor-Fullstack-success)](https://github.com/seu-usuario)
-[![HTML](https://img.shields.io/badge/HTML-Expert-orange)](https://github.com/seu-usuario)
-[![CSS](https://img.shields.io/badge/CSS-Expert-blueviolet)](https://github.com/seu-usuario)
-[![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)](https://github.com/seu-usuario)
-[![ReactJS](https://img.shields.io/badge/ReactJS-Expert-blue)](https://github.com/seu-usuario)
-[![Node.js](https://img.shields.io/badge/Node.js-Expert-success)](https://github.com/seu-usuario)
-[![Java](https://img.shields.io/badge/Java-Studying-red)](https://github.com/seu-usuario)
+[![Idade](https://img.shields.io/badge/Idade-16-blue)](https://github.com/thalesjuann)
+[![Desenvolvedor Fullstack](https://img.shields.io/badge/Desenvolvedor-Fullstack-success)](https://github.com/thalesjuann)
+[![HTML](https://img.shields.io/badge/HTML-Expert-orange)](https://github.com/thalesjuann)
+[![CSS](https://img.shields.io/badge/CSS-Expert-blueviolet)](https://github.com/thalesjuann)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)](https://github.com/thalesjuann)
+[![ReactJS](https://img.shields.io/badge/ReactJS-Beginner-brightgreen)](https://github.com/thalesjuann)
+[![Node.js](https://img.shields.io/badge/Node.js-Expert-success)](https://github.com/thalesjuann)
+[![Java](https://img.shields.io/badge/Java-Studying-red)](https://github.com/thalesjuann)
 
 ## Contato
 - [Discord](https://discord.com/users/829877072079487066)
