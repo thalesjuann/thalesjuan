@@ -1,7 +1,7 @@
 # Olá, eu sou Thales Juan! 👋 ![](https://komarev.com/ghpvc/?username=thalesjuann&color=006bed)
 
 ## Sobre mim
-Tenho 16 anos e sou um desenvolvedor fullstack apaixonado por criar soluções incríveis. Atualmente, estou focado no desenvolvimento web, utilizando tecnologias como HTML, CSS, JavaScript, ReactJS e Node.js. Além disso, estou sempre em busca de aprendizado e atualmente estou estudando Java para expandir ainda mais minhas habilidades.
+Tenho 17 anos e sou um desenvolvedor fullstack apaixonado por criar soluções incríveis. Atualmente, estou focado no desenvolvimento web, utilizando tecnologias como HTML, CSS, JavaScript, ReactJS e Node.js. Além disso, estou sempre em busca de aprendizado e atualmente estou estudando Java para expandir ainda mais minhas habilidades.
 
 ## Habilidades
 - **Frontend:** HTML, CSS, JavaScript, ReactJS
