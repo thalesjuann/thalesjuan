@@ -23,9 +23,6 @@ Tenho 17 anos e sou um desenvolvedor fullstack apaixonado por criar soluções i
 - [Instagram](https://instagram.com/thalesjuan._)
 - [Email](mailto:thalesjuand@gmail.com)
 
-## Projetos Destacados
-- [Pixel Nostálgico](https://github.com/thalesjuann/PixelNostalgico)
-
 Fique à vontade para explorar meus repositórios e entre em contato! 😊
 
 ![Thales GitHub stats](https://github-readme-stats.vercel.app/api?username=thalesjuann&show_icons=true&theme=dracula&count_private=true)
