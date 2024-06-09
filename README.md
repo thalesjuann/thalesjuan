@@ -9,7 +9,7 @@ Tenho 17 anos e sou um desenvolvedor fullstack apaixonado por criar soluções i
 - **Atualmente Estudando:** Java
 
 ## Badges
-[![Idade](https://img.shields.io/badge/Idade-16-blue)](https://github.com/thalesjuann)
+[![Idade](https://img.shields.io/badge/Idade-17-blue)](https://github.com/thalesjuann)
 [![Desenvolvedor Fullstack](https://img.shields.io/badge/Desenvolvedor-Fullstack-success)](https://github.com/thalesjuann)
 [![HTML](https://img.shields.io/badge/HTML-Intermediate-yellowgreen)](https://github.com/thalesjuann)
 [![CSS](https://img.shields.io/badge/CSS-Intermediate-yellowgreen)](https://github.com/thalesjuann)
